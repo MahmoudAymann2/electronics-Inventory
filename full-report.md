@@ -273,3 +273,9 @@ Reconcile inventory records with financial records for accounting personnel.
 <b> Assigned: </b> Yousef Gomaa, Mohamed Ayman <br>
 2nd Level DFD for Manage User Data Process Detailed
 ![Alt text](<diagrams/Manage User Data Process.png>)
+<br>
+2nd Level DFD for Manage Orders and Status Process Detailed
+![Alt text](<diagrams/Manage Order Purchases and Status Process.png>)
+<br>
+2nd Level DFD for Manage Report and Analytics Detailed
+![Alt text](<diagrams/Manage Report and Analytics Process.png>)

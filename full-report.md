@@ -56,8 +56,9 @@
     - [4. Use Cases](#4-use-cases)
     - [4. Acceptance Criteria](#4-acceptance-criteria)
   - [Diagrams](#diagrams)
-    - [Level 0 - Context Diagram (CD)](#level-0---context-diagram-cd)
-    - [Level 1 - Data Flow Diagram (DFD)](#level-1---data-flow-diagram-dfd)
+    - [Level 0 - Context Diagram (CD 0)](#level-0---context-diagram-cd-0)
+    - [Level 1 - Data Flow Diagram (DFD 1)](#level-1---data-flow-diagram-dfd-1)
+    - [Level 2 - Data Flow Diagram (DFD 2)](#level-2---data-flow-diagram-dfd-2)
 
 <div style="page-break-after: always;"></div>
 
@@ -259,11 +260,16 @@ Reconcile inventory records with financial records for accounting personnel.
 - The system must be able to integrate with the point-of-sale system and the accounting system.
 
 ## Diagrams
-### Level 0 - Context Diagram (CD)
+### Level 0 - Context Diagram (CD 0)
 <b> Assigned: </b> Mohamed Eldagla
-![Context Diagram - Level 0](<diagrams/Context Diagram.jpg>)
+![Context Diagram - Level 0](<diagrams/Context Diagram.png>)
 
-### Level 1 - Data Flow Diagram (DFD)
-<b> Assigned: </b> Hazem Mohamed
+### Level 1 - Data Flow Diagram (DFD 1)
+<b> Assigned: </b> Hazem Mohamed <br>
 ![Data Flow Diagram - Level 1](diagrams/DFD1.jpeg)
 <!-- <object data="diagrams/DFD Level 1.pdf" type="application/pdf" width="700px" height="700px"> </object> -->
+
+### Level 2 - Data Flow Diagram (DFD 2)
+<b> Assigned: </b> Yousef Gomaa, Mohamed Ayman <br>
+2nd Level DFD for Manage User Data Process Detailed
+![Alt text](<diagrams/Manage User Data Process.png>)

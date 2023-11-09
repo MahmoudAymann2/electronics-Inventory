@@ -260,7 +260,10 @@ Reconcile inventory records with financial records for accounting personnel.
 
 ## Diagrams
 ### Level 0 - Context Diagram (CD)
+<b> Assigned: </b> Mohamed Eldagla
+![Context Diagram - Level 0](<diagrams/Context Diagram.jpg>)
 
 ### Level 1 - Data Flow Diagram (DFD)
+<b> Assigned: </b> Hazem Mohamed
 ![Data Flow Diagram - Level 1](diagrams/DFD1.jpeg)
 <!-- <object data="diagrams/DFD Level 1.pdf" type="application/pdf" width="700px" height="700px"> </object> -->

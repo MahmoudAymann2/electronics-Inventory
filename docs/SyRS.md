@@ -1,58 +1,114 @@
-## System Requirements Specification (SyRS)
-<b> Assigned: </b> Mohamed Ashraf
+# System Requirements Specification (SyRS) - Electronics Inventory Management System
 
-### 1. Introduction
+## 1. Introduction
 
-<p> This System Requirements Specification (SyRS) describes the functional and non-functional requirements of an electronics inventory management system. The system will be used by store managers, sales staff, warehouse workers, accounting personnel, and executives to track inventory levels, manage orders, generate reports, and make informed decisions about the business.
+This System Requirements Specification (SyRS) outlines the functional and non-functional requirements for an electronics inventory management system. Targeted users include store managers, sales staff, warehouse workers, accounting personnel, and executives. The system aims to provide real-time tracking of inventory, order management, report generation, and data-driven decision-making capabilities.
 
-### 2. Functional Requirements
+## 2. Functional Requirements
 
-#### It must have the following functionality:
+### 2.1 Inventory Management
+1. **Real-time Inventory Tracking:**
+   - The system must track inventory levels in real-time at both store and enterprise levels.
 
-- Track inventory levels in real time, both at the store level and across all stores.
-- Manage orders, including creating new orders, tracking order status, and receiving orders.
-- Generate reports on sales, inventory, and other metrics.
-- Set alerts for low inventory levels and other important events.
-- Allow sales staff to access inventory information in real time, including product availability, pricing, and product specifications.
-- Allow sales staff to create and manage customer orders, and track the status of customer orders and notify customers of any changes.
-- Allow sales staff to generate reports on customer orders and sales.
-- Allow warehouse workers to manage incoming and outgoing shipments, including receiving shipments, putaway, picking, and packing.
-Track inventory levels in real time for warehouse workers.
-- Allow warehouse workers to generate reports on inventory levels, shipments, and picking and packing activity.
-- Track inventory costs and generate financial reports for accounting personnel.
-Reconcile inventory records with financial records for accounting personnel.
-- Generate reports on inventory shrinkage and other financial losses for accounting personnel.
-- Track the overall performance of the business, including inventory levels, sales, and profitability for executives.
-- Allow executives to drill down into specific areas of the business to identify areas for improvement.
-- Generate reports on the business performance and trends for executives.
+2. **Order Management:**
+   - Create, track, and receive orders.
+   - Sales staff can access real-time product availability, pricing, and specifications.
+   - Sales staff can create and manage customer orders, with order status notifications.
 
-### 3. Non-Functional Requirements
+3. **Reporting:**
+   - Generate sales, inventory, and other relevant metric reports.
+   - Provide reports on customer orders, sales, shipments, and financials.
+   - Track inventory costs and generate financial reports.
 
-#### The non-functional requirements:
+4. **Alerts:**
+   - Set alerts for low inventory levels and critical events.
 
-- The system must be able to track inventory levels in real time, with an accuracy of at least 99%.
-- The system must be able to process orders within 24 hours of receipt.
-- The system must be able to generate reports within 1 hour of request.
-- The system must be able to support 100 concurrent users.
-- The system must be secure and protect sensitive data, such as customer information and inventory costs.
-- The system must be scalable to handle growth in the business.
-- The system must be easy to use for all stakeholders, including store managers, sales staff, warehouse workers, accounting personnel, and executives.
+5. **Warehouse Operations:**
+   - Warehouse workers can manage incoming and outgoing shipments.
+   - Track real-time inventory levels within the warehouse.
+   - Generate reports on inventory levels, shipments, picking, and packing activities.
 
-### 4. Use Cases
+6. **Executive Dashboard:**
+   - Provide executives with an overview of business performance.
+   - Enable drill-down capabilities to identify areas for improvement.
 
-- A store manager creates a new order for products that are running low in stock.
-- A salesperson checks the inventory levels for a product before quoting a price to a customer.
-- A warehouse worker receives a shipment of new products and scans them into the system.
-- An accounting personnel generates a report on inventory costs at the end of the month.
-- An executive reviews a report on the overall performance of the business.
+### 2.2 User Roles
+1. **Store Managers:**
+   - Create and manage orders.
+   - Access inventory information and reports.
 
-### 4. Acceptance Criteria
+2. **Sales Staff:**
+   - Access real-time inventory information.
+   - Create and manage customer orders.
+   - Generate reports on customer orders and sales.
 
-#### The electronics inventory management system must meet the following acceptance criteria:
+3. **Warehouse Workers:**
+   - Manage incoming and outgoing shipments.
+   - Generate reports on inventory levels and warehouse activities.
 
-- The system must be able to track inventory levels in real time, with an accuracy of at least 99%.
-- The system must be able to process orders within 24 hours of receipt.
-- The system must be able to generate reports within 1 hour of request.
-- The system must be able to support 100 concurrent users.
-- The system must be able to integrate with the point-of-sale system and the accounting system.
+4. **Accounting Personnel:**
+   - Track inventory costs.
+   - Reconcile inventory records with financial records.
+   - Generate financial reports.
 
+5. **Executives:**
+   - Monitor overall business performance.
+   - Drill down into specific business areas.
+   - Generate reports on business performance and trends.
+
+## 3. Non-Functional Requirements
+
+1. **Accuracy:**
+   - The system must achieve at least 99% accuracy in real-time inventory tracking.
+
+2. **Order Processing:**
+   - Orders must be processed within 24 hours of receipt.
+
+3. **Report Generation:**
+   - Reports must be generated within 1 hour of the request.
+
+4. **Concurrency:**
+   - The system must support 100 concurrent users.
+
+5. **Security:**
+   - Ensure the security of sensitive data, including customer information and inventory costs.
+
+6. **Scalability:**
+   - The system must be scalable to accommodate business growth.
+
+7. **Usability:**
+   - The system must be user-friendly for all stakeholders.
+
+## 4. Use Cases
+
+1. **Store Manager Creates New Order:**
+   - A store manager creates a new order for products running low in stock.
+
+2. **Salesperson Checks Inventory Levels:**
+   - A salesperson checks inventory levels before quoting a price to a customer.
+
+3. **Warehouse Worker Receives Shipment:**
+   - A warehouse worker receives a shipment, scanning products into the system.
+
+4. **Accounting Personnel Generates Inventory Cost Report:**
+   - An accounting personnel generates a report on inventory costs at the end of the month.
+
+5. **Executive Reviews Business Performance:**
+   - An executive reviews a report on the overall performance of the business.
+
+## 5. Acceptance Criteria
+
+1. **Real-time Inventory Tracking:**
+   - The system must achieve at least 99% accuracy in tracking inventory levels in real-time.
+
+2. **Order Processing:**
+   - Orders must be processed within 24 hours of receipt.
+
+3. **Report Generation:**
+   - Reports must be generated within 1 hour of the request.
+
+4. **Concurrency:**
+   - The system must support 100 concurrent users.
+
+5. **Integration:**
+   - The system must integrate seamlessly with the point-of-sale system and the accounting system.

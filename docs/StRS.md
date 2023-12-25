@@ -86,61 +86,85 @@ A diagrammatic representation of the major internal divisions and external entit
 #### Stakeholder Influence
 Each stakeholder class will be described in terms of their influence on the organization, business processes, and the development and operation of the system.
 
-### 3.5 Business Environment
+# Stakeholder Requirements Specification (StRS) - Electronics Inventory Management System
+
+## 1. Business Purpose
+
+The electronics inventory management system is being pursued by our organization to enhance and streamline our inventory management processes. The primary objective is to achieve greater efficiency in tracking, managing, and reporting on our electronic product inventory. This system aims to contribute to our business objectives by optimizing inventory levels, improving order management, and facilitating data-driven decision-making.
+
+## 2. Business Scope
+
+### a) Business Domain Identification
+The electronics industry, encompassing a wide range of electronic products and components.
+
+### b) Range of Business Activities
+Involves inventory tracking, order management, and reporting across multiple stores.
+
+### c) System Scope
+The system covers the entire inventory lifecycle, from order creation to product delivery.
+
+## 3. Business Overview
+
+A diagrammatic representation of the major internal divisions and external entities within the electronics business domain will be provided. This overview will illustrate how these entities are interconnected.
+
+## 4. Stakeholders
+
+The stakeholders for the electronics inventory management system include store managers, sales staff, warehouse workers, accounting personnel, and executives. Each stakeholder class will be described in terms of their influence on the organization, business processes, and the development and operation of the system.
+
+## 5. Business Environment
 
 External and internal environmental factors influencing the electronics business and system development will be defined. This includes considerations for market trends, regulatory requirements, social responsibilities, and technological advancements.
 
-### 3.6 Goal and Objective
+## 6. Goal and Objective
 
 The goal is to optimize inventory management and enhance overall business efficiency. Objectives include achieving accurate real-time inventory tracking, improving order processing times, and providing comprehensive reporting for informed decision-making.
 
-### 3.7 Business Model
+## 7. Business Model
 
 Methods by which the business goal is expected to be achieved will be outlined. This includes the system's support for product and service offerings, geographic considerations, distribution channels, business alliances, partnerships, and the financial and revenue model.
 
-### 3.8 Information Environment
+## 8. Information Environment
 
 The overall strategy for organization-level decisions on common bases for multiple information systems will be described. This encompasses project portfolio management, long-term system planning, and database configuration.
 
-### 3.9 Business Processes
+## 9. Business Processes
 
 A hierarchical description of business activities and system interfaces within processes will be provided. Each business process will be uniquely named and numbered, with a focus on clarity through diagrams.
 
-### 3.10 Business Operational Policies and Rules
+## 10. Business Operational Policies and Rules
 
 Logical propositions guiding the conduct of business processes will be detailed, serving as conditions and criteria for judgment within the system.
 
-### 3.11 Business Operational Constraints
+## 11. Business Operational Constraints
 
 Conditions to be imposed in conducting business processes, such as performance constraints and monitoring requisites, will be clearly outlined.
 
-### 3.12 Business Operation Modes
+## 12. Business Operation Modes
 
 Methods to conduct business operations in unsteady states, including manual operation modes, will be described. Contingency plans for unexpected situations will be included.
 
-### 3.13 Business Operational Quality
+## 13. Business Operational Quality
 
 The level of quality required for business operation will be defined. Factors such as urgency and reliability will be addressed within this section.
 
-### 3.14 Business Structure
+## 14. Business Structure
 
 Identification and description of organizational structures relevant to the system, such as divisions, roles, responsibilities, geographic structures, and resource-sharing structures.
 
-### 3.15 User Requirements
+## 15. User Requirements
 
 User requirements for the electronics inventory management system will be specified, including inputs, selections, outputs, and applicable conditions or constraints governing user interaction with the system.
 
-### 3.16 Operational Concept
+## 16. Operational Concept
 
 A high-level description of the proposed system, indicating operational policies, constraints, system description, modes of operation, user classes, and the support environment.
 
-### 3.17 Operational Scenarios
+## 17. Operational Scenarios
 
 Examples of how users will interact with the system will be described as operational scenarios. Each scenario will be uniquely named and numbered, and referenced in the description of business processes.
 
-### 3.18 Project Constraints
+## 18. Project Constraints
 
 Constraints related to project cost and schedule, ensuring that the development and implementation align with organizational resources and timelines.
 
 This Stakeholder Requirements Specification (StRS) document adheres to the IEEE standards and serves as a comprehensive guide for the development of the Electronics Inventory Management System, addressing the needs and expectations of all relevant stakeholders.
-

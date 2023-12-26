@@ -270,7 +270,7 @@ Reconcile inventory records with financial records for accounting personnel.
 <!-- <object data="diagrams/DFD Level 1.pdf" type="application/pdf" width="700px" height="700px"> </object> -->
 
 ### Level 2 - Data Flow Diagram (DFD 2)
-<b> Assigned: </b> Yousef Gomaa, Mohamed Ayman <br>
+<b> Assigned: </b> Yousef Gomaa, Mahmoud Ayman <br>
 2nd Level DFD for Manage User Data Process Detailed
 ![Alt text](<diagrams/Manage User Data Process.png>)
 <br>

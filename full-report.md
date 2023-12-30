@@ -11,8 +11,8 @@
 |:-----:|:----:|:--------:|:-------:|:---------:|
 |Hazem Mohamed Ibrahim|320210159|hazem.mohamed@ejust.edu.eg|AID|3|
 |Yousef Ibrahim Gomaa Mahmoud|320210207|yousef.gomaa@ejust.edu.eg|AID|3
-|Seif Eldin Ahmed Diaa|320210163|seifeldin.zakaria@ejust.edu.eg|AID|3
 |Mahmoud Ayman El Shaarawy|320210152|Mahmoud.ayman@ejust.edu.eg|AID|3
+|Seif Eldin Ahmed Diaa|320210163|seifeldin.zakaria@ejust.edu.eg|AID|3
 |Mohamed Ibrahim Mohamed Eldagla|320210177|mohamed.eldagla@ejust.edu.eg|AID|3
 |Mohamed Ashraf Mohamed Selima|320210135|mohamed.selima@ejust.edu.eg|AID|2
 
@@ -249,7 +249,7 @@ Reconcile inventory records with financial records for accounting personnel.
 - An accounting personnel generates a report on inventory costs at the end of the month.
 - An executive reviews a report on the overall performance of the business.
 
-### 4. Acceptance Criteria
+### 5. Acceptance Criteria
 
 <b> The electronics inventory management system must meet the following acceptance criteria: </b>
 
